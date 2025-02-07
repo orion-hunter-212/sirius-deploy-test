@@ -5,7 +5,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-sirius_deploy_test = "DvWEH2ZJnfEXsRZEcGPGnS5PsVxyRzcDAsYR6jrYXmhs"
+sirius_deploy_test = "zX6qgNnfs9eTPh4oYqfon8a8hunLESweeDhWgttA8hs"
 
 [registry]
 url = "https://api.apr.dev"

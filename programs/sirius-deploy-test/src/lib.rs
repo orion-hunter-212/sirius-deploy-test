@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("DvWEH2ZJnfEXsRZEcGPGnS5PsVxyRzcDAsYR6jrYXmhs");
+declare_id!("zX6qgNnfs9eTPh4oYqfon8a8hunLESweeDhWgttA8hs");
 
 #[program]
 pub mod sirius_deploy_test {
@@ -11,6 +11,5 @@ pub mod sirius_deploy_test {
         Ok(())
     }
 }
-
 #[derive(Accounts)]
 pub struct Initialize {}
